@@ -1,0 +1,323 @@
+[
+    {
+        "id": "sudadera-01",
+        "titulo": "Sudadera 01",
+        "imagen": "./img/sudadera/01.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudadera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sudadera-02",
+        "titulo": "Sudadera 02",
+        "imagen": "./img/sudadera/02.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudadera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sudadera-03",
+        "titulo": "Sudadera 03",
+        "imagen": "./img/sudadera/03.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudadera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sudadera-04",
+        "titulo": "Sudadera 04",
+        "imagen": "./img/sudadera/04.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudadera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sudadera-05",
+        "titulo": "Sudadera 05",
+        "imagen": "./img/sudadera/05.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudadera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sudadera-06",
+        "titulo": "Sudadera 06",
+        "imagen": "./img/sudadera/06.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudadera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sudadera-07",
+        "titulo": "Sudadera 07",
+        "imagen": "./img/sudadera/07.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudadera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sudadera-08",
+        "titulo": "Sudadera 08",
+        "imagen": "./img/sudadera/08.jpg",
+        "categoria": {
+            "nombre": "Sudadera",
+            "id": "sudadera"
+        },
+        "precio": 1000
+    },
+    
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta 01",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta 02",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta 03",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta 04",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta 05",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta 06",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta 07",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta 08",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cojines-01",
+        "titulo": "Cojines 01",
+        "imagen": "./img/cojines/01.jpg",
+        "categoria": {
+            "nombre": "Cojines",
+            "id": "cojines"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cojines-02",
+        "titulo": "Cojines 02",
+        "imagen": "./img/cojines/02.jpg",
+        "categoria": {
+            "nombre": "Cojines",
+            "id": "cojines"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cojines-03",
+        "titulo": "Cojines 03",
+        "imagen": "./img/cojines/03.jpg",
+        "categoria": {
+            "nombre": "Cojines",
+            "id": "cojines"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cojines-04",
+        "titulo": "Cojines 04",
+        "imagen": "./img/cojines/04.jpg",
+        "categoria": {
+            "nombre": "Cojines",
+            "id": "cojines"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cojines-05",
+        "titulo": "Cojines 05",
+        "imagen": "./img/cojines/05.jpg",
+        "categoria": {
+            "nombre": "Cojines",
+            "id": "cojines"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cojines-06",
+        "titulo": "Cojines 06",
+        "imagen": "./img/cojines/06.jpg",
+        "categoria": {
+            "nombre": "Cojines",
+            "id": "cojines"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cojines-07",
+        "titulo": "Cojines 07",
+        "imagen": "./img/cojines/07.jpg",
+        "categoria": {
+            "nombre": "Cojines",
+            "id": "cojines"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cojines-08",
+        "titulo": "Cojines 08",
+        "imagen": "./img/cojines/08.jpg",
+        "categoria": {
+            "nombre": "Cojines",
+            "id": "cojines"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carcasas-01",
+        "titulo": "Carcasas 01",
+        "imagen": "./img/carcasas/01.jpg",
+        "categoria": {
+            "nombre": "Carcasas",
+            "id": "carcasas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carcasas-02",
+        "titulo": "Carcasas 02",
+        "imagen": "./img/carcasas/02.jpg",
+        "categoria": {
+            "nombre": "Carcasas",
+            "id": "carcasas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carcasas-03",
+        "titulo": "Carcasas 03",
+        "imagen": "./img/carcasas/03.jpg",
+        "categoria": {
+            "nombre": "Carcasas",
+            "id": "carcasas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carcasas-04",
+        "titulo": "Carcasas 04",
+        "imagen": "./img/carcasas/04.jpg",
+        "categoria": {
+            "nombre": "Carcasas",
+            "id": "carcasas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carcasas-05",
+        "titulo": "Carcasas 05",
+        "imagen": "./img/carcasas/05.jpg",
+        "categoria": {
+            "nombre": "Carcasas",
+            "id": "carcasas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carcasas-06",
+        "titulo": "Carcasas 06",
+        "imagen": "./img/carcasas/06.jpg",
+        "categoria": {
+            "nombre": "Carcasas",
+            "id": "carcasas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carcasas-07",
+        "titulo": "Carcasas 07",
+        "imagen": "./img/carcasas/07.jpg",
+        "categoria": {
+            "nombre": "Carcasas",
+            "id": "carcasas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carcasas-08",
+        "titulo": "Carcasas 08",
+        "imagen": "./img/carcasas/08.jpg",
+        "categoria": {
+            "nombre": "Carcasas",
+            "id": "carcasas"
+        },
+        "precio": 1000
+    }
+]
