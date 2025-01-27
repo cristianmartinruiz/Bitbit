@@ -292,6 +292,19 @@ main {
     display: none;
 }
 
+/* Archivo: main.css */
+.swal2-confirm {
+    background-color: #fd9d27; /* Fondo del botón de confirmación */
+    color: #fff; /* Color del texto del botón de confirmación */
+    border: none; /* Eliminar el borde */
+    border-radius: 0,59rem; /* Bordes redondeados */
+    text-transform: uppercase; /* Texto en mayúsculas */
+    font-size: .75rem; /* Tamaño de fuente */
+    padding: 0.75rem 1.25rem; /* Tamaño de la caja del botón */
+
+    
+}
+
 /*** MEDIA QUERIES ***/
 
 @media screen and (max-width: 850px) {
